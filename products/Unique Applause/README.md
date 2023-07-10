@@ -1,3 +1,3 @@
-# Unique Applayse
+# Unique Applause system
 
 Resources folder.
